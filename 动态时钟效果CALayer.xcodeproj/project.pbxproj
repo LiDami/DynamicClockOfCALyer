@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		39E79C4B1D63EF6C002FF7F0 /* 8月17日时钟效果CALayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "8月17日时钟效果CALayer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		39E79C4B1D63EF6C002FF7F0 /* 动态时钟效果CALayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "动态时钟效果CALayer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		39E79C4F1D63EF6C002FF7F0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		39E79C511D63EF6C002FF7F0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		39E79C521D63EF6C002FF7F0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		39E79C421D63EF6C002FF7F0 = {
 			isa = PBXGroup;
 			children = (
-				39E79C4D1D63EF6C002FF7F0 /* 8月17日时钟效果CALayer */,
+				39E79C4D1D63EF6C002FF7F0 /* 动态时钟效果CALayer */,
 				39E79C4C1D63EF6C002FF7F0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		39E79C4C1D63EF6C002FF7F0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				39E79C4B1D63EF6C002FF7F0 /* 8月17日时钟效果CALayer.app */,
+				39E79C4B1D63EF6C002FF7F0 /* 动态时钟效果CALayer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		39E79C4D1D63EF6C002FF7F0 /* 8月17日时钟效果CALayer */ = {
+		39E79C4D1D63EF6C002FF7F0 /* 动态时钟效果CALayer */ = {
 			isa = PBXGroup;
 			children = (
 				39E79C511D63EF6C002FF7F0 /* AppDelegate.h */,
@@ -68,6 +68,7 @@
 				39E79C5F1D63EF6C002FF7F0 /* Info.plist */,
 				39E79C4E1D63EF6C002FF7F0 /* Supporting Files */,
 			);
+			name = "动态时钟效果CALayer";
 			path = "8月17日时钟效果CALayer";
 			sourceTree = "<group>";
 		};
@@ -82,9 +83,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		39E79C4A1D63EF6C002FF7F0 /* 8月17日时钟效果CALayer */ = {
+		39E79C4A1D63EF6C002FF7F0 /* 动态时钟效果CALayer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 39E79C621D63EF6C002FF7F0 /* Build configuration list for PBXNativeTarget "8月17日时钟效果CALayer" */;
+			buildConfigurationList = 39E79C621D63EF6C002FF7F0 /* Build configuration list for PBXNativeTarget "动态时钟效果CALayer" */;
 			buildPhases = (
 				39E79C471D63EF6C002FF7F0 /* Sources */,
 				39E79C481D63EF6C002FF7F0 /* Frameworks */,
@@ -94,9 +95,9 @@
 			);
 			dependencies = (
 			);
-			name = "8月17日时钟效果CALayer";
+			name = "动态时钟效果CALayer";
 			productName = "8月17日时钟效果CALayer";
-			productReference = 39E79C4B1D63EF6C002FF7F0 /* 8月17日时钟效果CALayer.app */;
+			productReference = 39E79C4B1D63EF6C002FF7F0 /* 动态时钟效果CALayer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -114,7 +115,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 39E79C461D63EF6C002FF7F0 /* Build configuration list for PBXProject "8月17日时钟效果CALayer" */;
+			buildConfigurationList = 39E79C461D63EF6C002FF7F0 /* Build configuration list for PBXProject "动态时钟效果CALayer" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -127,7 +128,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				39E79C4A1D63EF6C002FF7F0 /* 8月17日时钟效果CALayer */,
+				39E79C4A1D63EF6C002FF7F0 /* 动态时钟效果CALayer */,
 			);
 		};
 /* End PBXProject section */
@@ -267,7 +268,7 @@
 				INFOPLIST_FILE = "8月17日时钟效果CALayer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Lidami.--17-----CALayer";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "动态时钟效果CALayer";
 			};
 			name = Debug;
 		};
@@ -278,14 +279,14 @@
 				INFOPLIST_FILE = "8月17日时钟效果CALayer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Lidami.--17-----CALayer";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "动态时钟效果CALayer";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		39E79C461D63EF6C002FF7F0 /* Build configuration list for PBXProject "8月17日时钟效果CALayer" */ = {
+		39E79C461D63EF6C002FF7F0 /* Build configuration list for PBXProject "动态时钟效果CALayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				39E79C601D63EF6C002FF7F0 /* Debug */,
@@ -294,13 +295,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		39E79C621D63EF6C002FF7F0 /* Build configuration list for PBXNativeTarget "8月17日时钟效果CALayer" */ = {
+		39E79C621D63EF6C002FF7F0 /* Build configuration list for PBXNativeTarget "动态时钟效果CALayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				39E79C631D63EF6C002FF7F0 /* Debug */,
 				39E79C641D63EF6C002FF7F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

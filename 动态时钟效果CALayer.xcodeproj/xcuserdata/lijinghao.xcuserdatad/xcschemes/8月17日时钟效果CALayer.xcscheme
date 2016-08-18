@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "39E79C4A1D63EF6C002FF7F0"
-               BuildableName = "8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.app"
-               BlueprintName = "8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer"
-               ReferencedContainer = "container:8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.xcodeproj">
+               BuildableName = "&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.app"
+               BlueprintName = "&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer"
+               ReferencedContainer = "container:&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "39E79C4A1D63EF6C002FF7F0"
-            BuildableName = "8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.app"
-            BlueprintName = "8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer"
-            ReferencedContainer = "container:8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.xcodeproj">
+            BuildableName = "&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.app"
+            BlueprintName = "&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer"
+            ReferencedContainer = "container:&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "39E79C4A1D63EF6C002FF7F0"
-            BuildableName = "8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.app"
-            BlueprintName = "8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer"
-            ReferencedContainer = "container:8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.xcodeproj">
+            BuildableName = "&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.app"
+            BlueprintName = "&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer"
+            ReferencedContainer = "container:&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "39E79C4A1D63EF6C002FF7F0"
-            BuildableName = "8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.app"
-            BlueprintName = "8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer"
-            ReferencedContainer = "container:8&#x6708;17&#x65e5;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.xcodeproj">
+            BuildableName = "&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.app"
+            BlueprintName = "&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer"
+            ReferencedContainer = "container:&#x52a8;&#x6001;&#x65f6;&#x949f;&#x6548;&#x679c;CALayer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -47,7 +47,7 @@
  *  获取时间
  */
 -(void)uppTime{
-#warning 用日历calendar获取年月日时分秒等
+#pragma  用日历calendar获取年月日时分秒等
     NSCalendar *calender = [NSCalendar currentCalendar];
     NSDateComponents *cmp = [calender components:NSCalendarUnitSecond |NSCalendarUnitMinute | NSCalendarUnitHour fromDate:[NSDate date]];
 //    获取秒
@@ -57,7 +57,7 @@
 //    获取时
     NSInteger currHour = cmp.hour;
     
-#warning 秒，当前时间 * 每一秒的角度
+#pragma 秒，当前时间 * 每一秒的角度
     CGFloat angle = currSec * perSecond;
     self.secondL.transform = CATransform3DMakeRotation(angle2Rad(angle), 0, 0, 1);
     
