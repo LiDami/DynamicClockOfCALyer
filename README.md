@@ -1,6 +1,8 @@
 # DynamicClockOfCALyer
 用CALayer实现一个动态的时钟，请多关照。created a dynamic clock with CALyer,please.
 
+![image](https://github.com/LiDami/DynamicClockOfCALyer/blob/master/clockG.gif )   
+
 下面是详细注解：
 时钟效果
 
